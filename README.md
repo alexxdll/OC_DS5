@@ -14,6 +14,8 @@ Vous devrez fournir à l’équipe marketing une description actionable de votre
 
 Pour cette mission, Olist vous fournit une base de données anonymisée comportant des informations sur l’historique de commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017.
 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 <h2>But et intérêt du projet</h2>
 
 Votre mission est d’aider les équipes d’Olist à comprendre les différents types d'utilisateurs. Vous utiliserez donc des méthodes non supervisées pour regrouper des clients de profils similaires. Ces catégories pourront être utilisées par l’équipe Marketing pour mieux communiquer.
